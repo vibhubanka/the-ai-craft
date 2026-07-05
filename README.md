@@ -6,10 +6,12 @@ A curated 🤌 collection 🗂️ of the art and science of AI 🤖 interaction.
 
 This repository is a personal toolkit for effective AI usage. It contains:
 
-*   **Prompts:** Tested and refined prompts for coding, writing, and analysis.
-*   **Techniques:** Strategies for breaking down complex tasks and getting better outputs.
-*   **Workflows:** Step-by-step guides on integrating AI into your development cycle.
-*   **Notes:** Personal observations on model behavior and "craftsmanship" in prompting.
+ *   **Prompts:** Tested and refined prompts for coding, writing, and analysis.
+ *   **Code Review Prompts:** Production-ready audit prompts for comprehensive code review.
+ *   **Techniques:** Strategies for breaking down complex tasks and getting better outputs.
+ *   **Workflows:** Step-by-step guides on integrating AI into your development cycle.
+ *   **Notes:** Personal observations on model behavior and "craftsmanship" in prompting.
+ *   **Code Reviews:** Structured review workflows for pre-launch audits and quality gates.
 
 > **Note:** Many prompts in this repo are adaptations of ideas found online, edited and refined for specific use cases. Where possible, original sources are credited.
 
