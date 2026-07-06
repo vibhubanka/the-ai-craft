@@ -12,6 +12,7 @@ This repository is a personal toolkit for effective AI usage. It contains:
  *   **Workflows:** Step-by-step guides on integrating AI into your development cycle.
  *   **Notes:** Personal observations on model behavior and "craftsmanship" in prompting.
  *   **Code Reviews:** Structured review workflows for pre-launch audits and quality gates.
+ *   **Agent Configs:** Example agent configuration files (e.g., AGENTS.md) for standardizing tool workflows across different coding assistants.
 
 > **Note:** Many prompts in this repo are adaptations of ideas found online, edited and refined for specific use cases. Where possible, original sources are credited.
 
